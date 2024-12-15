@@ -35,9 +35,16 @@ The program reads the `.fui` file in binary mode, searches for these patterns, a
   - `tkinter` (for GUI version)
   - No additional dependencies are needed for the command-line version.
 
-### Steps
+---
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/fui-png-extractor.git
-   cd fui-png-extractor
+## Screenshots Of GUI Version
+![Screenshot 2024-12-15 140201](https://github.com/user-attachments/assets/b979873e-07d6-4fa6-882c-60e7e3bbd243)
+![Screenshot 2024-12-15 140230](https://github.com/user-attachments/assets/2200a885-a0c4-4289-a2ab-9de089543218)
+![Screenshot 2024-12-15 140256](https://github.com/user-attachments/assets/1a13bdec-79d2-4157-8947-22e793690897)
+
+
+---
+
+### Issues
+
+- If you encounter any problems, please report these on the Issues page.
