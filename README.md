@@ -1,6 +1,6 @@
 # PNG Extractor for `.FUI` Files
 
-This repository contains a Python-based tool for extracting `.png` files from `.fui` files. `.fui` files are used in **Minecraft: Legacy Console Edition** to store UI assets, including images and textures.
+This repository contains a Python-based tool for extracting `.png` files from `.fui` files. `.fui` files are used in **Minecraft: Legacy Console Edition** to store UI assets, including images and textures. Although it could be used in any other circumstance too.
 
 The tool includes a **command-line version** and a **GUI version** for user convenience.
 
